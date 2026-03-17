@@ -1,4 +1,4 @@
-<img width="1855" height="733" alt="image" src="https://github.com/user-attachments/assets/ecf38a1b-3727-44fd-95e8-dd6e23f99cc0" /># Keviq
+# Keviq
 
 Keviq builds AI-native software products for modern work, developer productivity, and intelligent automation.
 
